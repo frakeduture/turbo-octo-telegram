@@ -1,0 +1,5 @@
+2017-02-21 17:43:04,628 main INFO  a00943900.bcmc.Bcmc (Bcmc.java:68) - Start time: 2017-02-22T01:43:04.433Z
+2017-02-21 17:43:04,650 main INFO  a00943900.bcmc.Bcmc (Bcmc.java:88) - Data files located
+2017-02-21 17:43:04,651 main INFO  a00943900.bcmc.Bcmc (Bcmc.java:91) - Created Bcmc
+2017-02-21 17:43:04,973 main INFO  a00943900.bcmc.Bcmc (Bcmc.java:94) - End time: 2017-02-22T01:43:04.973Z
+2017-02-21 17:43:04,974 main INFO  a00943900.bcmc.Bcmc (Bcmc.java:95) - Duration: 540 ms
